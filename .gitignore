@@ -6,3 +6,5 @@ logs/
 .user.yml
 venv/
 env/
+*.env
+profiles.yml

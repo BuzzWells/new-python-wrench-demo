@@ -90,5 +90,6 @@
         "redhat.vscode-yaml"
     ],
     
-    "remoteUser": "vscode"
+    "remoteUser": "vscode",
+    "runArgs": ["--env-file",".env"]
 }
